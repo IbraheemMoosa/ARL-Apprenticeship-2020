@@ -1,3 +1,5 @@
+# Credit to user:pyland on StackOverflow
+
 import matplotlib.pyplot as plt
 import scipy.optimize as opt
 import numpy as np
